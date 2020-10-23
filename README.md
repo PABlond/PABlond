@@ -31,5 +31,3 @@ Software Engineering is core of my work. By designing and implementing real-time
 - Email: [![Email](https://img.shields.io/badge/pierre-alexis.blond@live.fr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre-alexis.blond@live.fr)
 
 ⭐️ From [PABlond](https://github.com/PABlond)
-
-![PABlond's github stats](https://github-readme-stats.vercel.app/api?username=PABlond&show_icons=true&theme=radical)
