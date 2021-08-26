@@ -7,7 +7,7 @@ Software Engineering is core of my work. By designing and implementing real-time
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently a working for 3+ years as a freelancer; 
-- 🤔 My interests are with javascript programming, React and Node;
+- 🤔 My interests are with javascript programming, React, Python and Node;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
@@ -25,7 +25,6 @@ Software Engineering is core of my work. By designing and implementing real-time
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/https://www.pablond.com-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://www.pablond.com)
 - Twitter: [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_pablond) 
 - Linkedin: [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pa-blond/)
 - Email: [![Email](https://img.shields.io/badge/pierre-alexis.blond@live.fr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre-alexis.blond@live.fr)
