@@ -25,7 +25,6 @@ Software Engineering is core of my work. By designing and implementing real-time
 
 ### Contact me:
 
-- Twitter: [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_pablond) 
 - Linkedin: [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pa-blond/)
 - Email: [![Email](https://img.shields.io/badge/pierre-alexis.blond@live.fr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre-alexis.blond@live.fr)
 
