@@ -6,7 +6,7 @@ Software Engineering is core of my work. By designing and implementing real-time
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a working for 4+ years as a freelancer; 
+- 👨🏽‍💻 I’m currently a working for 5+ years as a freelancer; 
 - 🤔 My interests are with javascript programming, React, Python and Node;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
